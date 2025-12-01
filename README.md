@@ -1,18 +1,27 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=7fff00&text=Hello!&fontAlign=50&fontColor=0a0a0a&animation=fadeIn">
+# Hi there 👋
 
-## 👤 About Me 
+![glorp-outer-space](https://github.com/user-attachments/assets/2f0fd777-ec66-4f77-a69e-be22c56afc62)
 
-Hi! I'm Thomas, a Computing Science student at Heriot Watt University in Edinburgh. I'm currently studying AI & Intelligent Agents, Software Engineering, Data Communications & Networking and Foundations. I'm especially interested in full-stack devlopment, and enjoy using React, Node.js and other web technologies to create some small projects.
+## 👤 About me
 
-## 🖥️ Some of My Favourite Languages & Technologies
+I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Edinburgh. I enjoy building small interactive web apps, and I'm interested in learning more about machine learning. In my free time, I'm usually playing or theorycrafting games, spending time with friends, or revising 🫠
+
+## 🧠 Currently Learning
+
+<ul>
+  <li> AI & Intelligent Agents </li>
+  <li> Software Engineering </li>
+  <li> Data Communications & Networking </li>
+  <li> Lambda Calculus </li>
+</ul>
+
+## 🖥️ My Favourite Languages & Tools
 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,python,java,ts,html,css,react,tailwind,nodejs&perline=10">
 </a>
 
-## 🌐 You Can Also Find Me Here
+## 🌐 Connect With Me
 
-<a href="https://www.linkedin.com/in/8thomas0fraser8/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
-<a href="https://x.com/ThomasFDev"> <img src="https://skillicons.dev/icons?i=twitter"> </a>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=200&color=7fff00&section=footer">
+<a href="https://www.linkedin.com/in/ThomasFraserDev/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
+<a href="https://x.com/ThomasFraaserDev"> <img src="https://skillicons.dev/icons?i=twitter"> </a>
