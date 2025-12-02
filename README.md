@@ -4,7 +4,7 @@
 
 ## 👤 About me
 
-I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Edinburgh. I enjoy building small interactive web apps, and I'm interested in learning more about machine learning. In my free time, I'm usually playing or theorycrafting games, yapping, or revising 🫠
+I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Edinburgh. I enjoy building small interactive web apps, and I'm interested in learning more about machine learning. When I'm not coding, I'm usually playing or theorycrafting games, yapping, or revising 🫠
 
 ## 🧠 Currently Learning
 
@@ -24,6 +24,6 @@ I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Ed
 ## 🌐 Connect With Me
 
 <a href="https://www.linkedin.com/in/ThomasFraserDev/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
-<a href="https://x.com/ThomasFraaserDev"> <img src="https://skillicons.dev/icons?i=twitter"> </a>
+<a href="https://x.com/ThomasFraserDev"> <img src="https://skillicons.dev/icons?i=twitter"> </a>
 
 glorp :)
