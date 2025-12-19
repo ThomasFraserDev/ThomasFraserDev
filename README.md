@@ -9,9 +9,9 @@ I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Ed
 ## 🧠 Currently Learning
 
 <ul>
-  <li> AI & Intelligent Agents </li>
-  <li> Software Engineering </li>
-  <li> Data Communications & Networking </li>
+  <li> Operating Systems & Concurrency </li>
+  <li> Language Processors </li>
+  <li> Professional Development </li>
   <li> Lambda Calculus </li>
 </ul>
 
