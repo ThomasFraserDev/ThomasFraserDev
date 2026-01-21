@@ -21,10 +21,6 @@ I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Ed
 <img src="https://skillicons.dev/icons?i=js,python,cpp,java,ocaml,html,css,react,tailwind,nodejs&perline=10">
 </a>
 
-## My Deployed Projects
-
-- Artifactdle --> https://artifactdle.vercel.app
-
 ## Connect With Me
 
 <a href="https://www.linkedin.com/in/ThomasFraserDev/"> <img src="https://skillicons.dev/icons?i=linkedin"> </a>
