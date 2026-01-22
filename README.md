@@ -18,7 +18,7 @@ I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Ed
 ## My Favourite Languages & Tools
 
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,python,cpp,java,ocaml,html,css,react,tailwind,nodejs&perline=10">
+<img src="https://skillicons.dev/icons?i=js,python,cpp,java,html,css,react,tailwind,nodejs&perline=10">
 </a>
 
 ## Connect With Me
