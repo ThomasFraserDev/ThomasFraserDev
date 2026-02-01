@@ -4,7 +4,7 @@
 
 ## About me
 
-I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Edinburgh. I enjoy building small interactive web apps, and I'm interested in learning more about machine learning. When I'm not coding, I'm usually playing or theorycrafting games, yapping, or revising 🫠
+I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Edinburgh. When I'm not coding, I'm usually playing or theorycrafting games, yapping, or revising 🫠
 
 ## Currently Learning
 
