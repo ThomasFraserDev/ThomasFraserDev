@@ -12,7 +12,7 @@ I'm Thomas, a 3rd-year Computing Science student at Heriot-Watt University in Ed
   <li> Operating Systems & Concurrency </li>
   <li> Language Processors </li>
   <li> Professional Development </li>
-  <li> Lambda Calculus </li>
+  <li> Turing Machines </li>
 </ul>
 
 ## My Favourite Languages & Tools
