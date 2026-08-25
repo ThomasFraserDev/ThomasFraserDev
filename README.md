@@ -6,16 +6,15 @@
 
 I'm Thomas, a 4th-year Computing Science student at Heriot-Watt University in Edinburgh. When I'm not coding, I'm usually playing or theorycrafting games, yapping, or revising 🫠
 
-## Currently Learning
+## Currently Studying
 
 <ul>
-  <li> Operating Systems & Concurrency </li>
-  <li> Language Processors </li>
-  <li> Professional Development </li>
-  <li> Turing Machines </li>
+  <li> Biologically Inspired Computation </li>
+  <li> Computer Graphics </li>
+  <li> Intelligent Robotics </li>
 </ul>
 
-## My Favourite Languages & Tools
+## My Preferred Languages & Tools
 
 <a href="https://skillicons.dev">
 <img src="https://skillicons.dev/icons?i=js,python,cpp,cs,java,html,css,react,tailwind,nodejs&perline=10">
