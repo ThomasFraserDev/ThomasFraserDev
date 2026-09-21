@@ -14,6 +14,8 @@ I'm Thomas, a 4th-year Computing Science student at Heriot-Watt University in Ed
   <li> Intelligent Robotics </li>
 </ul>
 
+I'm also currently working on my dissertation, in which I aim to develop a conversational agent that can naturally participate in multiparty conversations rather than simply waiting for periods of silence, while avoiding unnecessary disruption to interactions between human speakers.
+
 ## My Preferred Languages & Tools
 
 <a href="https://skillicons.dev">
