@@ -14,7 +14,7 @@ I'm Thomas, a 4th-year Computing Science student at Heriot-Watt University in Ed
   <li> Intelligent Robotics </li>
 </ul>
 
-I'm also currently working on my dissertation, in which I aim to develop a conversational agent that can naturally participate in multiparty conversations rather than simply waiting for periods of silence, while avoiding unnecessary disruption to interactions between human speakers.
+I'm also currently working on my dissertation, in which I aim to investigate how both the role of a conversational agent and the number of human participants affect its ability to participate naturally in group conversations. I’ll develop and compare agents acting as either an active participant or facilitator, to explore how they should manage conversational turn taking without unnecessarily disrupting the multiparty discussions with varying amounts of human participants.
 
 ## My Preferred Languages & Tools
 
